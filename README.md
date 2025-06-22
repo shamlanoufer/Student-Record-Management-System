@@ -79,4 +79,3 @@ This project is for educational purposes.
 
 ---
 
-Feel free to customize this README further to match your project’s specifics!
